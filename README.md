@@ -33,8 +33,8 @@ There will be a visual that represents the time remaining to answer the question
 ## API LINK
 https://opentdb.com/api_config.php
 
-## TRYING OUT OUR API
-[API_demo.png](..%2F..%2FOneDrive%20-%20University%20of%20Toronto%2FCSC207%20-%20group%20project%2FAPI_demo.png)
+## TESTING OUT OUR API (SCREENSHOT)
+https://utoronto-my.sharepoint.com/:f:/g/personal/katia_brechko_mail_utoronto_ca/El6yNyTA1pVHlGTr7NhyKiIBvCrXGjQnZ8x73gqaiAcfLQ
 
 ## SAMPLE OUTPUT
 After running our code (include specific example of run), this is the Java output.
