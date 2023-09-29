@@ -34,7 +34,7 @@ There will be a visual that represents the time remaining to answer the question
 https://opentdb.com/api_config.php
 
 ## TRYING OUT OUR API
-(insert screenshot here)
+[API_demo.png](..%2F..%2FOneDrive%20-%20University%20of%20Toronto%2FCSC207%20-%20group%20project%2FAPI_demo.png)
 
 ## SAMPLE OUTPUT
 After running our code (include specific example of run), this is the Java output.
