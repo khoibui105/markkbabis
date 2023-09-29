@@ -41,3 +41,4 @@ After running our code (include specific example of run), this is the Java outpu
 
 ## TECHNICAL PROBLEMS
 At the moment, our output for the API is in String form. We still need to figure out how to convert it to json form.
+We had difficulty inserting the screenshot into the README.md file so we just inserted a link to a onedrive file.
